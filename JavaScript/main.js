@@ -1,6 +1,6 @@
 function runPage(id) {
     sessionStorage.setItem("page", id);
-    window.open("../HTML/Campus-Page.html", "_self")
+    window.open("HTML/Campus-Page.html", "_self")
 }
 
 window.addEventListener("load", function() {
