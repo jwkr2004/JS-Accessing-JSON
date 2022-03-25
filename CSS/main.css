@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Roboto&display=swap');
+
+body {
+    background-color: rgb(230, 163, 41);
+    font-family: 'Roboto';
+}
+
+.maps {
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+
+.maps div {
+    text-align: center;
+}
+
+.maps iframe {
+    border: solid 2px black;
+    margin: 10px;
+}
+
+.Campus img {
+    width: 98%;
+    height: auto;
+    border: 2px solid black;
+    border-radius: 8px;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(37, 37, 37);
+}
+
+.Campus {
+    text-align: center;
+    background-color:rgb(255, 195, 85);
+    border: 2px solid rgb(37, 37, 37);
+    padding: 2%;
+    margin-left: 28%;
+    margin-bottom: 4%;
+    margin-top: 2%;
+    width: 40%;
+    transition: all 150ms;
+}
+
+.Campus:hover {
+    background-color:rgb(203, 217, 221);
+    border-top-left-radius: 3%;
+    border-bottom-right-radius: 3%;
+}
+
+#frame {
+    text-align: center;
+    width: 40%;
+    padding: 5px; 
+}
+
+#frame iframe {
+    border: solid 2px black;
+    width: 97%;
+}
+
+#parent {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#parent div {
+    margin: 1%;
+    /*border: 2px solid black;*/
+}
+
+#programs {
+    padding: 2%;
+    width: fit-content;
+}
+
+#programs h3 {
+    text-align: center;
+}
+
+#programs ul {
+    list-style-type: circle;
+}

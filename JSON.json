@@ -1,0 +1,30 @@
+[
+    {
+        "name":"Central Campus",
+        "address":"6997 N Glen Harbor Blvd, Glendale, AZ 85307",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3325.670925055312!2d-112.29502798465434!3d33.535940480749545!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872b4104080e38d9%3A0x1fbd2919e78fa444!2sWest-MEC%20Central%20Campus!5e0!3m2!1sen!2sus!4v1647905278117!5m2!1sen!2sus",
+        "photo":"Central-Campus.png",
+        "programs":["Aviation Maintenance Technology", "Avionics/Drone Electronics", "Coding", "Precision Machining", "Welding Technology"]
+    },
+    {
+        "name":"Northeast Campus",
+        "address":"1617 W Williams Dr, Phoenix, AZ 85027",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3319.705112651981!2d-112.09674128465069!3d33.69069908070591!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872b6f81f1c0ca5d%3A0xf115943748fc5b2b!2sWest-MEC%20(Northeast%20Campus)!5e0!3m2!1sen!2sus!4v1647905547610!5m2!1sen!2sus",
+        "photo":"Northeast-Campus.png",
+        "programs":["Air Conditioning Technician", "Automotive Technology", "Coding", "Electrical Trade Specialty" ,"General Construction Technology", "Masonry Concrete Specialty", "Medical Assisting", "Medium/Heavy Diesel Technology", "Pharmacy Technician"]
+    },
+    {
+        "name":"Northwest Campus",
+        "address":"13201 W Grand Ave, Surprise, AZ 85374",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3321.8939637848325!2d-112.34685758465197!3d33.63399128072184!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872b44a4c816e5af%3A0x61da180d51e2250b!2sWest-MEC%20Northwest%20Campus!5e0!3m2!1sen!2sus!4v1647905422641!5m2!1sen!2sus",
+        "photo":"Northwest-Campus.png",
+        "programs":["Automotive Technology", "Biomedical Science", "Dental Assisting", "Hairstyling", "IT Security", "Medical Assisting", "Nursing Services", "Powersports Technician"]
+    },
+    {
+        "name":"Southwest Campus",
+        "address":"500 N Verrado Way, Buckeye, AZ 85326",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3328.8534098601544!2d-112.50740558465633!3d33.4531254807732!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872b49e6fadf8ec9%3A0xea15410e8a26a30c!2sWest-MEC%20Southwest%20Campus!5e0!3m2!1sen!2sus!4v1647905482749!5m2!1sen!2sus",
+        "photo":"Southwest-Campus.png",
+        "programs":["Automotive Technology", "Dental Assisting", "Electrical Trade Specialty", "Energy and Industrial Technology", "Environmental Sustainability", "General Construction Technology", "Hairstyling", "IT Security", "Medical Assisting", "Pharmacy Technician", "Physical Therapy Technician", "Welding Technology"]
+    }
+]
