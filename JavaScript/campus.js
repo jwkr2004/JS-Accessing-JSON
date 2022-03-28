@@ -9,7 +9,7 @@ window.addEventListener("load", function() {
 });
 
 function getJSON() {
-    const url = "../JSON.json";
+    const url = "https://api.jsonbin.io/b/62424a3da703bb674936dd4a";
     let myList = [];
     let localData = localStorage.getItem("myList");
     let page = sessionStorage.getItem("page");
